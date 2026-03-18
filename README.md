@@ -1,13 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Federyco%20Chen&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Hi,+I'm+Federyco+Chen;Data+Analyst+%26+Scientist" />
 </p>
 
-### 📊 Data Analyst & Data Scientist
-
-I am a **Statistics student at Universitas Negeri Yogyakarta** with a deep passion for transforming complex datasets into strategic insights through **Statistical Modeling, Machine Learning, and Deep Learning**. My technical expertise covers the entire data lifecycle, from **Exploratory Data Analysis (EDA)** and **preprocessing** to advanced modeling and evaluation using **Python, R, and SQL**. I have a broad interest in **predictive modeling, classification systems, and Natural Language Processing (NLP)**.
-
-My portfolio includes a diverse range of analytical projects, such as **predicting student graduation** using **Random Forest and Gradient Boosting**, as well as implementing **RNN and LSTM** architectures for **rainfall classification** in Sleman Regency. Additionally, I have developed projects in **NLP** through **sentiment analysis** of hotel reviews and conducted **macroeconomic research** on Indonesian inflation factors using the **Error Correction Model (ECM)**. I am highly motivated to explore new challenges in **data visualization and algorithm optimization** to drive data-driven decision-making.
-
+<p align="justify">
+I am a Statistics student at Universitas Negeri Yogyakarta with a deep passion for transforming complex datasets into strategic insights through Statistical Modeling, Machine Learning, and Deep Learning. My technical expertise covers the entire data lifecycle, from Exploratory Data Analysis (EDA) and preprocessing to advanced modeling and evaluation using Python, R, and SQL. I have a broad interest in predictive modeling, classification systems, and Natural Language Processing (NLP). I am highly motivated to explore new challenges in data visualization and algorithm optimization to drive data-driven decision-making.
+</p>
 ---
 
 ### 🛠️ Technical Toolkit
