@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Hi,+I'm+Federyco+Chen;+Data+Scientist" />
 </p>
 
-<p align="justify">
-I am a Statistics student at Universitas Negeri Yogyakarta with a deep passion for transforming complex datasets into strategic insights through Statistical Modeling, Machine Learning, and Deep Learning. My technical expertise covers the entire data lifecycle, from Exploratory Data Analysis (EDA) and preprocessing to advanced modeling and evaluation using Python, R, and SQL. I have a broad interest in predictive modeling, classification systems, and Natural Language Processing (NLP). I am highly motivated to explore new challenges in data visualization and algorithm optimization to drive data-driven decision-making.
-</p>
-
 ### 🛠️ Technical Toolkit
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
